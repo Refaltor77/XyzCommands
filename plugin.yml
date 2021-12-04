@@ -1,0 +1,6 @@
+name: xyz
+version: 1.0.0
+main: Refaltor\Xyz\Xyz
+api: 4.0.0
+author: Refaltor
+website: http://nuketown.fr

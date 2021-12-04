@@ -1,0 +1,8 @@
+commands:
+  description: "§cShow your coords"
+
+messages:
+  on: "§aYou’ve activated the coordinates !"
+  off: "§cYou’ve disabled the coordinates !"
+
+xyzMsg: "§cx: §a{x} §4| §cy: §a{y} §4| §cz: §a{z}"
